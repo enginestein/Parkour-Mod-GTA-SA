@@ -2,33 +2,58 @@
  
 When dropping from a low height
 X - roll 
+
 Z - reverse roll
 
 Stunts
 1 - Backflip 
+
 2 - Frontflip 
+
 3 - Sideflip 
+
 4 - Gainer 
+
 5 - Folha 
+
 6 - Cork 
+
 7 - Webster 
+
 8 - Fulltwist 
+
 9 - Round off flashkick 
+
 0 - Backhandspring 
+
 t - Backhandspring + Backflip 
+
 y - Palmflip 
+
 u - Wallflip 
+
 i - Cork + Folha 
+
 o - Popup layout 
+
 p - Jump and dive 
+
 g - Frontflip + Aerial + Fulltwist 
+
 h - Handstand 
+
 j - Backhandspring + Backhandspring + Backhandspring + Fulltwist + Backflip + Fulltwist + Fulltwist + Backflip 
+
 k - Backhandspring + Backhandspring + Layout + Fackhandspring + Flashkick 
+
 l - Backhandspring + Backhandspring + Layout + Backflip + Backflip + Backflip 
+
 b - Wall Sideflip 
+
 n - Wall Frontflip 
+
 m - Backspring 
+
 , - Aerial 
 
 ![gallery12](https://user-images.githubusercontent.com/117010357/233629559-df10e3eb-0f7c-46ca-838b-157ce8697c2a.jpg)
